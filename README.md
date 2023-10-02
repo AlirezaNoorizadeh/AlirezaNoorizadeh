@@ -11,7 +11,7 @@ __________________
 
 •	Familiar with C
 
-•	Familiar with Git/Github
+•	Familiar with Git/GitHub
 
 •	Java script
 
@@ -32,7 +32,7 @@ __________________
 • Member of the Computer Scientific Association of the University of Science and Culture
   
 ### Diploma:
-•	Graduated from Mandagh Alborz High School
+•	Graduated from Mandegar Alborz High School
   
 •	GPA = 19.70
   
@@ -50,7 +50,7 @@ __________________
 # Social Media:
 
 
-•	Linkedin = https://www.linkedin.com/in/alirezanoorizadeh
+•	LinkedIn = https://www.linkedin.com/in/alirezanoorizadeh
 
 •	Instagram = https://instagram.com/alireza__noorizadeh
 
@@ -60,4 +60,4 @@ __________________
 
 ### I would be happy if you visit my projects and give me feedback about them:
 
-Crwler : https://github.com/AlirezaNoorizadeh/Crawler
+Crawler = https://github.com/AlirezaNoorizadeh/Crawler
