@@ -1,10 +1,10 @@
-# Summary:
+# 📑Summary:
 
 As a second-year computer science student, I am passionate about the world of technology and have a collaborative and participatory spirit. I am eager to learn and be creative in the field of programming. In order to advance scientifically in my area of interest and learn deep concepts, in addition to personal development, I am looking to increase my teamwork experience and be around experienced people to accelerate my path to becoming a skilled programmer.
 
 __________________
 
-# Skills:
+# 🦾Skills:
 
 
 •	Familiar with C++
@@ -25,7 +25,7 @@ __________________
 
 __________________
 
-# Education:
+# 🎓Education:
 
 
 ### Computer Engineering Student:
@@ -38,7 +38,7 @@ __________________
   
 __________________
 
-# Work Experience:
+# 💻Work Experience:
 
 
 •	Site admin
@@ -47,7 +47,7 @@ __________________
 
 __________________
 
-# Social Media:
+# 🔗Social Media:
 
 
 •	LinkedIn = https://www.linkedin.com/in/alirezanoorizadeh
@@ -58,6 +58,8 @@ __________________
 
 __________________
 
-### I would be happy if you visit my projects and give me feedback about them:
+### ✅I would be happy if you visit my projects and give me feedback about them:
+
+Maze = https://github.com/AlirezaNoorizadeh/Maze
 
 Crawler = https://github.com/AlirezaNoorizadeh/Crawler
