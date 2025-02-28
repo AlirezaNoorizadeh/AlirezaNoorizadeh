@@ -129,3 +129,11 @@ __________________
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/Solidity_Examples)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/BlazorContact)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/Crawler)
+
+__________________
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vazirmatn&weight=500&duration=3000&pause=500&color=3FC2E9&background=14132167&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile;Let's+improve+together)](https://git.io/typing-svg)
+
+</div>
