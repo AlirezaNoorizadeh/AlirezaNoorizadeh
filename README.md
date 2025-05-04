@@ -132,10 +132,12 @@ __________________
 __________________
 
 ### ✅I would be happy if you visit my projects and give me feedback about them:
+[![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/GameStore)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/DapperVsEFCore)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/Maze)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/Crawler)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/Solidity_Examples)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/BlazorContact)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/Crawler)
 
 __________________
 
