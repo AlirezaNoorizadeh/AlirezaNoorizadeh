@@ -1,8 +1,10 @@
 # 📑Summary:
 
-As a passionate **third-year Computer Engineering student** and **full-stack C# developer**, I specialize in **ASP.NET Core**, **Blazor**, and modern ORM technologies (Entity Framework Core & Dapper), with expertise in database systems (SQL Server, SQLite) and optimized data access patterns.
-My fintech focus spans **Insurtech**, Lending, and **Digital Banking**, complemented by hands-on experience in RESTful API development and exploratory projects in **blockchain/Web3** (including basic smart contract development and web crawlers).
+As a passionate **third-year Computer Engineering student** and **full-stack C# developer**, I specialize in **ASP.NET Core**, **Blazor**, and modern ORM technologies (Entity Framework Core & Dapper), with expertise in database systems (SQL Server, SQLite) and optimized data access patterns.  
+My fintech focus spans **Insurtech**, Lending, and **Digital Banking**, complemented by hands-on experience in RESTful API development and exploratory projects in **blockchain/Web3** (including basic smart contract development and web crawlers).  
+Alongside my backend expertise, I've also begun exploring **machine learning fundamentals**, completing small-scale projects involving **linear regression**, **Neural network classification (e.g., XOR)**, and **genetic algorithms**, using tools like `scikit-learn` and `TensorFlow`.  
 Driven by innovation, I aim to bridge cutting-edge technology with financial solutions. Always **eager to connect and contribute** to innovative tech projects that make an impact.
+
 
 __________________
 
@@ -43,6 +45,17 @@ __________________
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-00599C?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FE6E9E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 
 ### DevOps & IT Infrastructure
@@ -103,7 +116,13 @@ __________________
 __________________
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlirezaNoorizadeh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=AlirezaNoorizadeh&theme=onestar&no-frame=false&margin-w=4" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=AlirezaNoorizadeh&theme=light&no-frame=false&margin-w=4" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AlirezaNoorizadeh&theme=onestar&no-frame=false&margin-w=4" />
+  </picture>
+</div>
 
 __________________
 
@@ -118,31 +137,123 @@ __________________
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=AlirezaNoorizadeh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AlirezaNoorizadeh&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaNoorizadeh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <div>
+    <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=AlirezaNoorizadeh&theme=dark&include_all_commits=true&count_private=true&show_icons=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=AlirezaNoorizadeh&theme=default&include_all_commits=true&count_private=true&show_icons=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AlirezaNoorizadeh&theme=dark&include_all_commits=true&count_private=true&show_icons=true" />
+    </picture>
+  </div>
+  
+  <div>
+    <picture>
+    <source srcset="https://streak-stats.demolab.com?user=AlirezaNoorizadeh&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://streak-stats.demolab.com?user=AlirezaNoorizadeh&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://streak-stats.demolab.com?user=AlirezaNoorizadeh&theme=dark" />
+    </picture>
+  </div>
+  
+  <div> 
+    <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaNoorizadeh&theme=dark&layout=compact" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaNoorizadeh&theme=default&layout=compact" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaNoorizadeh&theme=dark&layout=compact" />
+    </picture>
+  </div>
+  
 </div>
 
 __________________
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  <picture>
+    <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+  </picture>
+</div>
 
 __________________
 
-### ✅I would be happy if you visit my projects and give me feedback about them:
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/GameStore)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/DapperVsEFCore)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/Maze)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/Crawler)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/Solidity_Examples)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=radical)](https://github.com/AlirezaNoorizadeh/BlazorContact)
+## ✅I would be happy if you visit my projects and give me feedback about them:
+
+### 📊 Databases & Backend Tools
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=dark" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=dark" />
+  </picture>
+</div>
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=dark" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=dark" />
+  </picture>
+</div>
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=dark" />
+  </picture>
+</div>
+
+### 🌐 Web & Frontend Development
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=3D-web-voxel-editor&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=3D-web-voxel-editor&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=3D-web-voxel-editor&cache_seconds=86400&theme=dark" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=dark" />
+  </picture>
+</div>
+
+### 🧠 AI & Machine Learning
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=linear-regression-weather&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=linear-regression-weather&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=linear-regression-weather&cache_seconds=86400&theme=dark" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=xor-neural-network&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=xor-neural-network&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=xor-neural-network&cache_seconds=86400&theme=dark" />
+  </picture>
+</div>
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=genetic-algorithm-8-queens&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=genetic-algorithm-8-queens&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=genetic-algorithm-8-queens&cache_seconds=86400&theme=dark" />
+  </picture>
+</div>
 
 __________________
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vazirmatn&weight=500&duration=3000&pause=500&color=3FC2E9&background=14132167&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile;Let's+improve+together)](https://git.io/typing-svg)
-
+  <picture>
+    <source srcset="https://readme-typing-svg.herokuapp.com?font=Vazirmatn&weight=500&duration=3000&pause=500&color=3FC2E9&background=14132167&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile;Let's+improve+together" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://readme-typing-svg.herokuapp.com?font=Vazirmatn&weight=500&duration=3000&pause=500&color=0366d6&background=ffffff67&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile;Let's+improve+together" media="(prefers-color-scheme: light)" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Vazirmatn&weight=500&duration=3000&pause=500&color=3FC2E9&background=14132167&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile;Let's+improve+together" />
+  </picture>
 </div>
+
