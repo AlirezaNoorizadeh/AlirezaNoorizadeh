@@ -181,70 +181,100 @@ __________________
 
 ### 📊 Databases & Backend Tools
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=dark" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=dark" />
-  </picture>
+  <a href="https://github.com/AlirezaNoorizadeh/GameStore">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=GameStore&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
+  <a href="https://github.com/AlirezaNoorizadeh/DapperVsEFCore">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=DapperVsEFCore&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
 </div>
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=dark" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=dark" />
-  </picture>
+  <a href="https://github.com/AlirezaNoorizadeh/Maze">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Maze&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
+  <a href="https://github.com/AlirezaNoorizadeh/Solidity_Examples">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Solidity_Examples&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
 </div>
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=dark" />
-  </picture>
+  <a href="https://github.com/AlirezaNoorizadeh/BlazorContact">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=BlazorContact&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
 </div>
 
 ### 🌐 Web & Frontend Development
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=3D-web-voxel-editor&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=3D-web-voxel-editor&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=3D-web-voxel-editor&cache_seconds=86400&theme=dark" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=dark" />
-  </picture>
+  <a href="https://github.com/AlirezaNoorizadeh/3D-web-voxel-editor">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=3D-web-voxel-editor&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=3D-web-voxel-editor&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=3D-web-voxel-editor&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
+  <a href="https://github.com/AlirezaNoorizadeh/Crawler">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Crawler&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/AlirezaNoorizadeh/Rock-Paper-Scissors">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Rock-Paper-Scissors&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Rock-Paper-Scissors&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Rock-Paper-Scissors&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
 </div>
 
 ### 🧠 AI & Machine Learning
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=linear-regression-weather&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=linear-regression-weather&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=linear-regression-weather&cache_seconds=86400&theme=dark" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=xor-neural-network&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=xor-neural-network&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=xor-neural-network&cache_seconds=86400&theme=dark" />
-  </picture>
+  <a href="https://github.com/AlirezaNoorizadeh/linear-regression-weather">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=linear-regression-weather&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=linear-regression-weather&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=linear-regression-weather&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
+  <a href="https://github.com/AlirezaNoorizadeh/xor-neural-network">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=xor-neural-network&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=xor-neural-network&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=xor-neural-network&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
 </div>
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=genetic-algorithm-8-queens&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=genetic-algorithm-8-queens&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=genetic-algorithm-8-queens&cache_seconds=86400&theme=dark" />
-  </picture>
+  <a href="https://github.com/AlirezaNoorizadeh/genetic-algorithm-8-queens">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=genetic-algorithm-8-queens&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=genetic-algorithm-8-queens&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=genetic-algorithm-8-queens&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
 </div>
 
 __________________
