@@ -275,6 +275,13 @@ __________________
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=genetic-algorithm-8-queens&cache_seconds=86400&theme=dark" />
     </picture>
   </a>
+  <a href="https://github.com/AlirezaNoorizadeh/Content-to-Text-AI-Converter">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Content-to-Text-AI-Converter&cache_seconds=86400&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Content-to-Text-AI-Converter&cache_seconds=86400&theme=default" media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlirezaNoorizadeh&repo=Content-to-Text-AI-Converter&cache_seconds=86400&theme=dark" />
+    </picture>
+  </a>
 </div>
 
 __________________
